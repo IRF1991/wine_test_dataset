@@ -46,5 +46,16 @@ Se analizan un dataset con los datos de 7500 tipos de vino tinto de España reco
 
 15. Guardo el nuevo dataset cómo wines_SPA_cleaned.csv.
 
-**Visualización de datos**
+## Conclusiones resultantes de las visualizaciones:
 
+- La mayor parte de la oferta del mercado español se concentra en rangos de precio asequibles o de un precio moderado, con la mediana situada cerca de los vinos con precios bajos (de 0 a 50 euros). Los consumidores buscan unos precios asequibles, lo que sugiere que las estrategias comerciales deben priorizar ofertar vinos dentro de esos rangos.
+
+- Se pueden apreciar las zonas de dispersión en los segmentos más altos, lo que puede permitir saber qué precios oscilan los vinos más premium del mercado para tenerlo en cuenta a la hora de tener una reserva de vinos de alta gama.
+
+- En una lectura general de todas las regiones se puede deducir que los vinos con mayor calidad/precio por lo general son vinos con un precio bajo, lo que indica que el consumidor español valora especialmente el equilibrio entre un bajo coste y la satisfacción, además, al filtrar por regiones con más de 10 vinos, se sigue observando la preferencia por vinos más económicos.
+
+- A nivel comercial, se podrían trazar estrategias de pedido a los vinos con mayor calidad/precio dentro de las regiones más valoradas y con precios que se adecuén a lo que necesitamos, para tener más oportunidad de mercado a la vez que se pueden ahorrar costos en transporte. Esto nos ayuda a mejorar la rentabilidad y la competitivdad.
+
+- Al ver la distribución de los factores que influyen en la percepción de la calidad/precio de los usuarios, es destacable comentar que los vinos dentro de un rango de 0 a 100 euros tienen una percepción superior a la media, lo que refuerza aún más el hecho de centrarse comercialmente en vinos de coste bajo y medio-bajo, además hay una preferencia sobre los vinos de los años de 2020 a 2024 y los vinos con un cuerpo y acidez de 2, qué es lo mínimo que tienen los vinos del dataset.
+
+- Todos estos datos nos pueden llevar a encontrar los vinos con más preferencia en el mercado y por tanto nos aportan un valor enorme a la hora tanto de hacer marketing, cómo de ofrecer las vinos con más calidad, más competitivos y rentables.
