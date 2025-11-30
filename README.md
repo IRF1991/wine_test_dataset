@@ -54,7 +54,7 @@ Antes de leer estas conclusiones debo aclarar que la "calidad/precio" a la que m
 
 - La gran mayoría de los vinos producidos en España provienen de Ribera del Duero y La Rioja.
 
-- El grueso de la calidad/precio de los vinos se concentra entre un 45 y un 55% de satisfacción (calidad/precio).
+- Hay una clara relación entre el precio del vino y el número de vinos que se ofrecen en el mercado, y gracias al histograma se puede intuir que al rededor de los 350 euros, el producto se torna un artículo de lujo.
 
 - La mayor parte de la oferta del mercado español se concentra en rangos de precio asequibles o de un precio moderado, con la mediana situada cerca de los vinos con precios bajos (de 0 a 50 euros). Los consumidores buscan unos precios asequibles, lo que sugiere que las estrategias comerciales deben priorizar ofertar vinos dentro de esos rangos.
 
