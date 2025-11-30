@@ -2,6 +2,8 @@
 
 Se analizan un dataset con los datos de 7500 tipos de vino tinto de España recolectados usando web scraping de diferentes fuentes (desde páginas de vinos especializadas hasta supermercados).
 
+El dataset inicial se compone de 11 columnas que muestran el lugar de producción, nombre del vino, año de la cosecha, valoración media de los clientes, número de reviews, país, región de producción, precio, tipo de vino, cuerpo y acidez.
+
 *Fuente del dataset*: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
 **Problemas a resolver**
